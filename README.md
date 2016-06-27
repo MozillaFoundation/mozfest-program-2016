@@ -1,6 +1,8 @@
 ## Overview 
 
-All the MozFest program data is in the ["Issues"](https://github.com/mozilla/mozfest-program/issues) section of this Github repository. This is a brief tutorial to help you get started with Github Issues.
+All the MozFest program data is in the ["Issues"](https://github.com/mozilla/mozfest-program/issues) section of this Github repository. This is a brief tutorial to help you get started with Github Issues. 
+
+Its important to note that all submissions come through the official [Call for Proposals form](https://mozillafestival.org/proposals) on the MozFest website and are *not* added manually here. Please submit via the Call form only.
 
 ## Why we're using Github Issues for MozFest
 
