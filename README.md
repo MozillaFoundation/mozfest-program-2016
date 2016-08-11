@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
+
 ## Overview 
 
 All the MozFest program data is in the ["Issues"](https://github.com/MozillaFoundation/mozfest-program-2016/issues) section of this Github repository. This is a brief tutorial to help you get started with Github Issues. 
